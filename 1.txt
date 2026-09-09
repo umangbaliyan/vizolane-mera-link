@@ -1,1 +1,1 @@
-https://medical-strategies-glow-loose.trycloudflare.com
+https://api.trycloudflare.com
