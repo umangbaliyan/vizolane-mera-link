@@ -1,1 +1,1 @@
-https://campus-protocol-answers-retirement.trycloudflare.com
+https://api.trycloudflare.com
